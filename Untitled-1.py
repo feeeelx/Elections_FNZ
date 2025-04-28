@@ -1,6 +1,6 @@
 
 
-fichier = open ("exemple.json", "r")
+fichier = open ("Dossier_externe.json", "r")
 lignes = fichier.readlines()
 
 #print(lignes)
