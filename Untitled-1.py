@@ -1,8 +1,8 @@
-fichier = open ("fichier.txt", "r")
+fichier = open ("Dossier_externe.json", "r")
 lignes = fichier.readlines()
 print(lignes)
 candidat1 = Zakaria Djendli
-candidat2 = Félix Boisvert
+candidat2 = Felix Boisvert
 candidat3 = Nathaniel  Samson
 if candidat1 > candidat2 and candidat3:
     print("Candidat 1 a gagné")
