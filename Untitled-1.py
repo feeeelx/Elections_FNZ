@@ -4,6 +4,7 @@ print(lignes)
 candidat1 = "Nathaniel"
 candidat2 = "Felix"
 candidat3 = "Zakaria"
+
 if lignes[0] == "Nathaniel":
     candidat1 += 1
 if lignes[1] == "Felix":
