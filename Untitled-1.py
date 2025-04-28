@@ -30,4 +30,6 @@ elif votes_candidat3 >= votes_candidat1 and votes_candidat3 >= votes_candidat2:
     print("Candidat 3 a gagné")
 else:
     print("Il y a égalité")
+
+
 fichier.close()
